@@ -5,8 +5,23 @@ Tetris with Pyhton
 
 <br>
 
-만들면서 느낀점 [:](https://blog.naver.com/woukl22/222215703811)
+결과물
 ---
+
+![결과물](https://user-images.githubusercontent.com/69896250/145245801-ec01ab9a-a941-4d7a-a1e8-9c0230f430f2.gif)
+
+<br>
+
+게임 오버 화면
+---
+![image](https://user-images.githubusercontent.com/69896250/145246607-3b3a8ccd-1ec4-453b-b98d-ac56bcb2d2cd.png)
+
+
+<br>
+
+만들면서 느낀점
+---
+- *[블로그 원문 링크](https://blog.naver.com/woukl22/222215703811)*
 
 2학기를 마치고, 입대까지 시간이 많지 않아서 놀 생각만 하고 있었다. 그런데 종강 후에 주변 친구들이 공부하는 것을 보고 자극을 받아 나도 뭔가 하나 만들어봐야겠다는 생각을 했다. 
 
